@@ -1,4 +1,4 @@
-*ddu-kind-cloned.txt*				gogh source for ddu.vim
+*ddu-kind-cloned.txt*			kind for ddu.vim handles cloned path.
 
 Author: kyoh86 <me@kyoh86.dev>
 License: MIT License
